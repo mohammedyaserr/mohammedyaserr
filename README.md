@@ -8,13 +8,13 @@
 
 ###
 
-<div align="center">
-  <img height="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd4MmRpYmZyejJjOTVtaTJ5Mzk0MjN2Njc4c2dwY3gwY3dyazZieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<br clear="both">
+
+<img align="right" height="116" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd4MmRpYmZyejJjOTVtaTJ5Mzk0MjN2Njc4c2dwY3gwY3dyazZieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
